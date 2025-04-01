@@ -1,6 +1,6 @@
 streamlit
 pandas
-pip install numpy==1.24.4
+numpy
 dowhy
 graphviz
 statsmodels
