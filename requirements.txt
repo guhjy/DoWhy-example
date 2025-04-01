@@ -1,6 +1,7 @@
+python==3.10
+numpy==1.23.5
 streamlit
 pandas
-numpy
 dowhy
 graphviz
 statsmodels
