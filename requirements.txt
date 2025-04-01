@@ -3,6 +3,5 @@ pandas
 numpy>=1.26.0 # <--- 指定較新版本下限
 dowhy
 graphviz
-python-graphviz
 statsmodels
 scipy
