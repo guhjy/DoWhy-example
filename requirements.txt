@@ -2,7 +2,7 @@ setuptools==68.0.0
 numpy==1.23.5
 streamlit
 pandas
-dowhy
 graphviz
 statsmodels
 scipy
+git+https://github.com/urwithin/dowhy@no-distutils
