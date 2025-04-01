@@ -5,4 +5,4 @@ pandas
 graphviz
 statsmodels
 scipy
-git+https://github.com/urwithin/dowhy@no-distutils
+git+https://github.com/statgarten/dowhy-nodistutils.git@main
