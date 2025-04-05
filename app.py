@@ -1,4 +1,8 @@
 pip install --upgrade pip setuptools
+pip install --upgrade dowhy 
+streamlit pandas numpy
+statsmodels evalue graphviz
+pygraphviz
 import streamlit as st
 import pandas as pd
 import numpy as np
