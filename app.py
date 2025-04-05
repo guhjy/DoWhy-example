@@ -1,3 +1,4 @@
+pip install --upgrade pip setuptools
 import streamlit as st
 import pandas as pd
 import numpy as np
