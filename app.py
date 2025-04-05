@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+pip install --upgrade dowhy
 import dowhy
 from dowhy import CausalModel
 import graphviz # DoWhy 需要 graphviz 來繪圖
